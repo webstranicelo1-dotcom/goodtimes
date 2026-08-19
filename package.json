@@ -1,0 +1,20 @@
+{
+  "name": "goodtimes-loznica",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Caffe & Pizzeria Good Times Loznica - scroll driven 3D sajt",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "gsap": "^3.13.0",
+    "lenis": "^1.3.11",
+    "three": "^0.181.0"
+  },
+  "devDependencies": {
+    "vite": "^7.1.3"
+  }
+}
